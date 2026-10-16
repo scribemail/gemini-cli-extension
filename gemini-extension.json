@@ -1,0 +1,15 @@
+{
+  "name": "scribe-mail",
+  "version": "1.0.2",
+  "description": "Email signatures finally simple and measurable. Built for teams & AI agents. Install consistent signatures company-wide in under a day. IT sets up once. Marketing takes over. AI agents assist. No employee installation. 12% average CTR on signature banners. Conversion tracking from click to revenue.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "scribe": {
+      "httpUrl": "https://mcp.scribe-mail.com/mcp",
+      "description": "Scribe Mail: email signature templates, teammates, campaigns, and analytics. Signs you in with OAuth on first use.",
+      "oauth": {
+        "enabled": true
+      }
+    }
+  }
+}

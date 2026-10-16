@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "scribe": {
+      "serverUrl": "https://mcp.scribe-mail.com/mcp"
+    }
+  }
+}
